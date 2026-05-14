@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: SpellsTracker
+## Notes: Vanilla spell replay
+## Version: 1.0
+
+SpellsTracker.lua
